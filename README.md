@@ -41,4 +41,4 @@ Created a Power BI report template for analyzing application-related information
 4. Explore the report and its visualizations.
 
 ## Conclusion
-This project demonstrates practical Power BI skills in data analysis, reporting, data transformation, and visualization.
+This project demonstrates practical Power BI skills in data analysis, reporting, data transformation and visualization.
